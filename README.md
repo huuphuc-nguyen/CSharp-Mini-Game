@@ -1,6 +1,6 @@
 # :video_game:CSharp-Mini-Game:video_game:
 ## I. Description
-This is a console game project within the C# learning module on the Microsoft path. You can access the module and tutorial [here].
+This is a console game project within the C# learning module on the Microsoft path. You can access the module and tutorial [here](https://learn.microsoft.com/vi-vn/training/modules/challenge-project-create-mini-game/1-introduction).
 ## II. How to run the program
 |To execute the program|To debug and view code|
 |------------|:---------------|
